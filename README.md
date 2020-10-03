@@ -16,6 +16,9 @@ Tired of searching for the right doctor to go to? Fret no more! Infirmary offers
 👍🏽 👎🏽 View doctor reviews, doctor’s online profile, locations, fees & experiences
 👩🏽‍⚕️ Enjoy hassle-free online doctor appointment booking
 
+What is infirmary?
+A place (as in a school or prison) where sick or injured individuals receive care and treatment
+
 # SIMPLIFIES SCHEDULING
 With Infirmary, scheduling occurs in one well organised platform so the endless back and forth communication can be avoided and a streamlined communication is guaranteed. Manage multiple location or employees, only show your clients the calendar you want them to see, and block out any dates you will be taking off from work.
 
