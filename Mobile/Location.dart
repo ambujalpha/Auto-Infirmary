@@ -7,21 +7,7 @@ void locatioN() async{
   PermissionStatus _permissionGranted;
   LocationData _locationData;
 
-  _serviceEnabled = await location.serviceEnabled();
-  if (!_serviceEnabled) {
-    _serviceEnabled = await location.requestService();
-    if (!_serviceEnabled) {
-      return;
-    }
-  }
-
-  _permissionGranted = await location.hasPermission();
-  if (_permissionGranted == PermissionStatus.denied) {
-    _permissionGranted = await location.requestPermission();
-    if (_permissionGranted != PermissionStatus.granted) {
-      return;
-    }
-  }
+Free and open source, Git is a distributed version control system that makes collaborative software projects more manageable. Many projects maintain their files in a Git repository, and sites like GitHub have made sharing and contributing to code simple, valuable, and effective.
 
   _locationData = await location.getLocation();
   print(_locationData.toString());
